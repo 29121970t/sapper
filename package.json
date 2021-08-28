@@ -1,0 +1,11 @@
+{
+  "name": "scoreboard",
+  "version": "1.0.0",
+  "description": "scoreboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "29121970tt",
+  "license": "ISC"
+}
